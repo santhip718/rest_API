@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.properties.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.properties.username'"
+  },
+  {
+    "name": "spring.properties.color",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.properties.color'"
+  },
+  {
+    "name": "var",
+    "type": "java.lang.String",
+    "description": "A description for 'var'"
+  }
+]}
